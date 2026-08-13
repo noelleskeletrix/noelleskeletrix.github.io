@@ -5,9 +5,10 @@
 
 p {
   font-family: utdrfont;
-  color: white;
+  color: #ffffff;
 }
 
 body {
-  background-color: black;
+  background-color: #000000;
+  color: #ffffff;
 }
